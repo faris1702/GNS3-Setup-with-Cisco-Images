@@ -6,7 +6,8 @@
     - Can be installed from https://www.virtualbox.org/
     - Basic installation, just like any other application
 - WinSCP
-- `CiscoKeyGen.py` script
+- Cisco IOU License Generator `CiscoKeyGen.py` script
+    - I am unable to share, but you can easily find it online
 - Cisco IOU/IOS images
     - Can retrieve from this repo https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG
 
